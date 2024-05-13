@@ -394,7 +394,7 @@ header.shadow {
   .navbar a:hover {
     color: var(--bg-color);
   }
-  .navbar .active {
+  .navbar.active {
     top: 100%;
   }
   .home {
